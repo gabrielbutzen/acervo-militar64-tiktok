@@ -10,7 +10,7 @@ reaproveitar e estender a análise.
 
 > **Como citar:** a preencher após a publicação do artigo.
 >
-> **DOI:** a gerar. Recomenda-se arquivar uma versão no Zenodo, que atribui identificador
+> **DOI:** https://doi.org/10.5281/zenodo.23367305
 > permanente e preserva o conteúdo mesmo que este repositório seja movido ou removido.
 
 ---
