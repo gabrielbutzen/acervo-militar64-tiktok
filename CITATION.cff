@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Acervo do perfil @militar.64 no TikTok: conjunto de dados descritivo de 273 publicações"
+message: "Se você usar este conjunto de dados, por favor cite-o conforme abaixo."
+type: dataset
+authors:
+  - name: "A PREENCHER"
+abstract: >-
+  Conjunto de dados descritivo das 273 publicações do perfil @militar.64 do TikTok,
+  dedicado à circulação de registros audiovisuais do período da ditadura brasileira
+  (1964-1985) em chave apologética. Reúne data e hora de publicação, métricas públicas
+  de circulação, duração, áudio, hashtags, marcação de local e descrição de cada
+  publicação. Produzido no âmbito de pesquisa sobre arquivos informais digitais e
+  história pública.
+keywords:
+  - arquivos informais digitais
+  - história pública digital
+  - ditadura militar brasileira
+  - TikTok
+  - memória digital
+license: CC-BY-4.0
+date-released: 2026-10-07
+version: "1.0.0"
