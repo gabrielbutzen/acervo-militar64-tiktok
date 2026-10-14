@@ -193,3 +193,9 @@ ts = int("7352532220206435590") >> 32
 print(datetime.datetime.fromtimestamp(ts, datetime.UTC).astimezone(ZoneInfo("America/Sao_Paulo")))
 # 2024-03-31 11:20:21-03:00
 ```
+
+---
+
+## Contato e correções
+
+Caso encontre alguma inconsistência, erro nos dados ou tenha dúvidas sobre a pesquisa, entre em contato pelo e-mail: [gabrielantoniobutzen@gmail.com](mailto:gabrielantoniobutzen@gmail.com).
